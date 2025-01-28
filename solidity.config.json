@@ -1,0 +1,5 @@
+{
+    "includePath": "lib",
+    "excludePath": "node_modules",
+    "remappings": []
+}
